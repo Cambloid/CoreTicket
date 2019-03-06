@@ -1,0 +1,2 @@
+# CoreTicket
+General purpose ticketsystem
